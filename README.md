@@ -1,2 +1,2 @@
 # MyFirst_demo
-this is my first git repository[Diksha]
+this is my first git repository[Diksha Shetkar]
